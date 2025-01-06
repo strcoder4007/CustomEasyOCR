@@ -1,0 +1,132 @@
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 740
+num total samples of kthi_train_filtered: 740 x 1.0 (total_data_usage_ratio) = 740
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 740
+num total samples of kthi_train_filtered: 740 x 1.0 (total_data_usage_ratio) = 740
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 740
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 740
+num total samples of kthi_train_filtered: 740 x 1.0 (total_data_usage_ratio) = 740
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 740
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 740
+num total samples of kthi_train_filtered: 740 x 1.0 (total_data_usage_ratio) = 740
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 740
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 740
+num total samples of kthi_train_filtered: 740 x 1.0 (total_data_usage_ratio) = 740
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 740
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 740
+num total samples of kthi_train_filtered: 740 x 1.0 (total_data_usage_ratio) = 740
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 740
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 740
+num total samples of kthi_train_filtered: 740 x 1.0 (total_data_usage_ratio) = 740
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 740
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 565
+num total samples of kthi_train_filtered: 565 x 1.0 (total_data_usage_ratio) = 565
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 175
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['kthi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: kthi_train_filtered
+sub-directory:	/kthi_train_filtered	 num samples: 565
+num total samples of kthi_train_filtered: 565 x 1.0 (total_data_usage_ratio) = 565
+num samples of kthi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/kthi_val	 dataset: /
+sub-directory:	/.	 num samples: 175
+--------------------------------------------------------------------------------

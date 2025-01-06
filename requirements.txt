@@ -1,0 +1,13 @@
+torch==2.2.0
+pytorch-cuda==11.8
+torchvision>=0.5
+opencv-python-headless
+scipy
+numpy<2
+Pillow
+scikit-image
+python-bidi
+PyYAML
+Shapely
+pyclipper
+ninja
